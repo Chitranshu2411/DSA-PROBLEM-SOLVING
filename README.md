@@ -1,1 +1,1 @@
-A structured DSA problem-solving journey dedicated to mastering core Data Structures & Algorithms through consistent practice and interview-focused preparation.
+Consistent DSA practice repository with optimized solutions, complexity analysis, and interview-focused approach.
